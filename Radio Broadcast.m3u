@@ -1,0 +1,35 @@
+#EXTM3U
+
+# --- Jazz / Fusion ---
+#EXTINF:-1,Jazz24 (Seattle)
+https://live.wostreaming.net/direct/ppm-jazz24mp3-ibc1
+
+#EXTINF:-1,ABC Jazz (Australia)
+https://live-radio01.mediahubaustralia.com/JAZ/mp3/
+
+#EXTINF:-1,Smooth Jazz Global
+https://playerservices.streamtheworld.com/api/livestream-redirect/SJAZZ.mp3
+
+# --- Rock / Classic Rock ---
+#EXTINF:-1,Classic Rock Florida
+https://ais-sa2.cdnstream1.com/1987_128.mp3
+
+#EXTINF:-1,181.FM Classic Rock
+https://listen.181fm.com/181-classicrock_128k.mp3
+
+#EXTINF:-1,Absolute Radio (UK)
+https://edge-bauerall-01-gos2.sharp-stream.com/absolute.mp3
+
+# --- Metal / Hard Rock ---
+#EXTINF:-1,SomaFM Metal Detector
+https://ice2.somafm.com/metal-128-mp3
+
+#EXTINF:-1,Hard Rock Heaven
+https://stream.zeno.fm/n4gzbe9ufzzuv
+
+# --- Chill / Audiophile ---
+#EXTINF:-1,SomaFM Groove Salad
+https://ice2.somafm.com/groovesalad-128-mp3
+
+#EXTINF:-1,Linn Radio (HiFi)
+http://radio.linnrecords.com/cast/tunein.php/linnradio/stream.pls
